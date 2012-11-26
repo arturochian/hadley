@@ -1,0 +1,22 @@
+Package: hadley
+Type: Package
+Title: hadley
+Version: 0.1.0
+Date: 2012-06-03
+Author@R: c(person("Dason", "Kurkiewicz",
+    role = c("aut", "cre", "ctb"),
+    email = "dasonk@iastate.edu"))
+Author: Dason Kurkiewicz
+Maintainer: Dason Kurkiewicz <dasonk@iastate.edu>
+Depends:
+    plyr,
+    reshape2,
+    stringr,
+    lubridate,
+    ggplot2,
+    httr
+Description: Depends on Hadley's packages
+License: GPL-2
+URL: https://github.com/Dasonk/hadley
+Collate:
+    ''
